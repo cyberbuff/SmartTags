@@ -1,0 +1,10 @@
+IPL Dashboards powered by Zoho Reports [Update]
+The qualifier 1 between the best defenders and the best chasers has begun and we can feel the heat already. We have added certain enhancements to the IPL dashboards on ipl2k18.zohosites.com
+
+	•	Live score widget: Now, keep a secret tab and know the live IPL score!
+	•	New UI: With the help of sites team, we have moved to the new UI with better look and feel.
+	•	Newly added reports and updates on orange/purple cap.
+
+Thanks to the Zoho Sites team for helping us set this up.
+
+Do check out and please share it on your Facebook/Twitter/LinkedIn profiles.

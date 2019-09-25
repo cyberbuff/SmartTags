@@ -1,0 +1,8 @@
+Live IPL dashboards powered by Zoho Reports
+It’s that time of the year again!
+The IPL fever has gripped the country and with CSK’s re-entry, this T20 cricket season just got more exciting. With 51 days of exciting action spread over 60 matches, it is not the participating 8 cities alone where the fever is at its peak but all over India and even abroad.
+From cheering for your favourite team to trolling the teams you hate… it is going to be action-packed and we know that No matter how much we want our favourite team to win the title, the result will be unpredictable.
+We, at Zoho Reports, collected the data and let the data do the talking. We present you live IPL dashboards (with stats from 2008-2018, sorted by year/player/teams). You can check the stats across years and find out the performance of your favourite teams and players individually.
+
+Access the dashboards here: http://ipl2k18.zohosites.com
+And don't forget to share it with your friends on social media :)

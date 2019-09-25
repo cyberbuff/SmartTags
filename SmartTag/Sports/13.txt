@@ -1,0 +1,22 @@
+IPL Predictor game - Results
+Its all over! 6 weeks of entertainment packed IPL has at last comes to an end with CSK taking over their cup. Probably CSK clinching the cup might be the only good news for most of the people in TN, let alone CSK Haters. Nevertheless, this is a sport we all love.
+ 
+It also ends the 5th edition of our Prediction game powered by Zoho Creator and its time to announce the results and as usual no prizes winners, sorry 😉
+Winners in Individual game:
+	1	Zingalala (124)
+	2	Janakiraman (100)
+	3	Mahi's Maverick & ChillPill (96)
+ 
+Winners in Team game:
+	1	Adengappa 4 per (282)  - Lokesh, Ram, Pradeep, Maria
+	2	Tr (280) - Balakumar, darkknight, Sarath S, sathiz
+	3	Scale Agadhu (238) - Agni, Giri, Kat, Son Goku
+ 
+Hall of fame for previous years is available in http://iplpredictor.zohosites.com/
+ 
+Thanks everyone who participated, hope you all enjoyed as much as me.
+ 
+Special thanks to ChillPill for your valuable feedbacks helping me in improvising the game.
+ 
+Also thanks to the technical and support guys from the teams Creator, Reports, Cliq, Flow,
+Sites, Deluge who helped me in developing this game.

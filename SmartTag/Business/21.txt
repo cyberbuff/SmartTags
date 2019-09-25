@@ -1,0 +1,47 @@
+Zoho One Search - Master key(App) to access all your data
+You are on the move and you receive a call from one of your prospects. The prospect is on the verge of signing a big deal and would like to know the status of queries he/she had.
+Now you need to check out the recent communication that has happened between the prospect and your sales / pre-sales team. And also the conversation within the team regarding this deal.
+You have to juggle between multiple apps to collect all the relevant information.
+
+ 
+What if you can get the 360-degree view of the customer, with a single tap?
+Introducing Zoho One Search Mobile App - Search, Refine, Consume and Act. The mobile app supports nearly all the features (including improved findability ) we announced a few months back in Zoho One Search .
+
+ 
+Search across 9 Zoho services
+You can search across these services - Mail, Cliq, Connect, Documents, Contacts, People, Desk, CRM, and Wiki, others will be included very soon.
+Result Preview
+You can quickly check the detailed view for most of the search results. Check full email thread, check the desk ticket details, check connect feed and forum, etc.
+
+Deeplinked with other Apps
+Continue your chat conversion using Zoho Cliq App, Edit your writer document using Zoho Writer App, Reply to your support ticket using Zoho Desk App etc.
+
+ 
+Autosuggestion
+Why type the full contact name, or search query when you can use the contact, recent searches and saved searches suggestion as you type.
+
+**Did you notice something amiss?
+Tech is misspelled as tecch. Now, you don't have to try hard to recall the exact keywords to search or worry about typing a misspelled word which is often the case using Mobile Apps. To know more about our findability features - refer our earlier post .
+Save Search with applied Filters
+Now you don't have to type the same search query and apply the same filters again and again. You can save the search query with applied filters, and use your saved search next time. Using saved searches you can create different custom views(data will be automatically updated) which you want to access frequently like - your department tickets, your open tickets.
+
+ 
+Quick Actions
+Quickly make a phone call to your contacts or colleague, start a chat conversion with your colleague. Long press on the result to check the different quick actions available for it.
+
+ 
+Personalise to your need
+Need specific service to be searched by default, or wants to change the order of the services for the result tab - explore different personalization option provided under Settings.
+
+Search SDK:
+Search SDK lets Android App Developers enable search across one or more Zoho services right within their App. Zoho One and a few other teams are already in the process of using the SDK. To learn more refer to this document   or reach out to me or Gopinath M .
+
+What's Cooking?
+	1	iOS App & SDK - Coming soon.
+	2	Zoho Reports, Creator and Recruit search results
+	3	Zia Personalized Search Assistant(Voice+Text) - Get your question answered using natural language search. e.g. - ‌is there any tickets due today?
+	4	Search Data SDK - You can use this SDK to search and fetch results from one or more Zoho Services.
+
+Help us build a better mobile search experience for you by sharing your valuable suggestions. You can easily share your suggestion using the Share Feedback option under App Settings.
+
+Now available for download in MDM, also you can use the following QR code to download the APK(Download using Zoho-Corp or Zoho-Handhelds Wifi Only).

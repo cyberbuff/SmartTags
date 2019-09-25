@@ -1,0 +1,9 @@
+you may have noticed that Google Calendar has been adding new features the past couple years. You can find time for your goals and set reminders, for example.
+I played a very small part in these features, but I learned a lot about my own productivity in the process. See, I was an advisor to Timeful: a productivity app co-founded by behavioral scientist Dan Ariely, which was bought by Google in 2015. Many of these new features originated with Timeful, and I’m sure more are yet to come.
+My role with Timeful was to talk to their product designers about integrating a cohesive productivity philosophy into the app. Productivity is about mind management, not time management, and while simple tools — such as to-do items — are useful, they don’t account for the shortcomings of real human behavior.
+I can’t take credit for any particular Timeful (or Google Calendar) feature, but throughout the process, I was forced to think hard about my own productivity philosophy, and how best to implement it into my life.
+Here are the main things I learned:
+You’re bad at estimating time
+My favorite Timeful feature (which I hope becomes a Google Calendar feature) was that you could set time estimates for to-do items, and actually drag them onto the calendar. It makes sense that if you have a list of things you want to do, there should be some plan about when you’ll fit those things into your schedule.
+By estimating times, then seeing how well I did with those estimates, I learned that I was bad at estimating how long things would take. We’re all bad at it. Daniel Kahneman calls it The Planning Fallacy.
+To fight this, start scheduling and estimating how much time it will take you to do certain tasks. When you see how far off you are, you’ll get better at making realistic estimates.

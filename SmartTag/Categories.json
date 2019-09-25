@@ -1,0 +1,4274 @@
+[
+ {
+   "name": "pizza",
+   "category": "Food"
+ },
+ {
+   "name": "pizza pie",
+   "category": "Food"
+ },
+ {
+   "name": "brown bear",
+   "category": "Food"
+ },
+ {
+   "name": "bruin",
+   "category": "Food"
+ },
+ {
+   "name": "Ursus arctos",
+   "category": "Food"
+ },
+ {
+   "name": "sloth bear",
+   "category": "Food"
+ },
+ {
+   "name": "Melursus ursinus",
+   "category": "Food"
+ },
+ {
+   "name": "Ursus ursinus",
+   "category": "Food"
+ },
+ {
+   "name": "ocarina",
+   "category": "Food"
+ },
+ {
+   "name": "sweet potato",
+   "category": "Food"
+ },
+ {
+   "name": "guacamole",
+   "category": "Food"
+ },
+ {
+   "name": "bell pepper",
+   "category": "Food"
+ },
+ {
+   "name": "beer glass",
+   "category": "Food"
+ },
+ {
+   "name": "zucchini",
+   "category": "Food"
+ },
+ {
+   "name": "courgette",
+   "category": "Food"
+ },
+ {
+   "name": "trifle",
+   "category": "Food"
+ },
+ {
+   "name": "carbonara",
+   "category": "Food"
+ },
+ {
+   "name": "chocolate sauce",
+   "category": "Food"
+ },
+ {
+   "name": "chocolate syrup",
+   "category": "Food"
+ },
+ {
+   "name": "rotisserie",
+   "category": "Food"
+ },
+ {
+   "name": "French loaf",
+   "category": "Food"
+ },
+ {
+   "name": "pomegranate",
+   "category": "Food"
+ },
+ {
+   "name": "waffle iron",
+   "category": "Food"
+ },
+ {
+   "name": "cheeseburger",
+   "category": "Food"
+ },
+ {
+   "name": "bakery",
+   "category": "Food"
+ },
+ {
+   "name": "bakeshop",
+   "category": "Food"
+ },
+ {
+   "name": "bakehouse",
+   "category": "Food"
+ },
+ {
+   "name": "pretzel",
+   "category": "Food"
+ },
+ {
+   "name": "consomme",
+   "category": "Food"
+ },
+ {
+   "name": "rock crab",
+   "category": "Food"
+ },
+ {
+   "name": "Cancer irroratus",
+   "category": "Food"
+ },
+ {
+   "name": "fig",
+   "category": "Food"
+ },
+ {
+   "name": "ice cream",
+   "category": "Food"
+ },
+ {
+   "name": "icecream",
+   "category": "Food"
+ },
+ {
+   "name": "jackfruit",
+   "category": "Food"
+ },
+ {
+   "name": "jak",
+   "category": "Food"
+ },
+ {
+   "name": "jack",
+   "category": "Food"
+ },
+ {
+   "name": "ice lolly",
+   "category": "Food"
+ },
+ {
+   "name": "lolly",
+   "category": "Food"
+ },
+ {
+   "name": "lollipop",
+   "category": "Food"
+ },
+ {
+   "name": "popsicle",
+   "category": "Food"
+ },
+ {
+   "name": "strawberry",
+   "category": "Food"
+ },
+ {
+   "name": "lemon",
+   "category": "Food"
+ },
+ {
+   "name": "corn",
+   "category": "Food"
+ },
+ {
+   "name": "banana",
+   "category": "Food"
+ },
+ {
+   "name": "acorn",
+   "category": "Food"
+ },
+ {
+   "name": "fiddler crab",
+   "category": "Food"
+ },
+ {
+   "name": "pineapple",
+   "category": "Food"
+ },
+ {
+   "name": "ananas",
+   "category": "Food"
+ },
+ {
+   "name": "pitcher",
+   "category": "Food"
+ },
+ {
+   "name": "ewer",
+   "category": "Food"
+ },
+ {
+   "name": "American lobster",
+   "category": "Food"
+ },
+ {
+   "name": "Northern lobster",
+   "category": "Food"
+ },
+ {
+   "name": "Maine lobster",
+   "category": "Food"
+ },
+ {
+   "name": "Homarus americanus",
+   "category": "Food"
+ },
+ {
+   "name": "wine bottle",
+   "category": "Food"
+ },
+ {
+   "name": "burrito",
+   "category": "Food"
+ },
+ {
+   "name": "cucumber",
+   "category": "Food"
+ },
+ {
+   "name": "cuke",
+   "category": "Food"
+ },
+ {
+   "name": "mushroom",
+   "category": "Food"
+ },
+ {
+   "name": "stingray",
+   "category": "Food"
+ },
+ {
+   "name": "custard apple",
+   "category": "Food"
+ },
+ {
+   "name": "artichoke",
+   "category": "Food"
+ },
+ {
+   "name": "globe artichoke",
+   "category": "Food"
+ },
+ {
+   "name": "hip",
+   "category": "Food"
+ },
+ {
+   "name": "rose hip",
+   "category": "Food"
+ },
+ {
+   "name": "rosehip",
+   "category": "Food"
+ },
+ {
+   "name": "yellow lady's slipper",
+   "category": "Food"
+ },
+ {
+   "name": "yellow lady-slipper",
+   "category": "Food"
+ },
+ {
+   "name": "Cypripedium calceolus",
+   "category": "Food"
+ },
+ {
+   "name": "Cypripedium parviflorum",
+   "category": "Food"
+ },
+ {
+   "name": "red wine",
+   "category": "Food"
+ },
+ {
+   "name": "confectionery",
+   "category": "Food"
+ },
+ {
+   "name": "confectionary",
+   "category": "Food"
+ },
+ {
+   "name": "candy store",
+   "category": "Food"
+ },
+ {
+   "name": "bolete",
+   "category": "Food"
+ },
+ {
+   "name": "orange",
+   "category": "Food"
+ },
+ {
+   "name": "fruit",
+   "category": "Food"
+ },
+ {
+   "name": "head cabbage",
+   "category": "Food"
+ },
+ {
+   "name": "Appenzeller",
+   "category": "Food"
+ },
+ {
+   "name": "cauliflower",
+   "category": "Food"
+ },
+ {
+   "name": "acorn squash",
+   "category": "Food"
+ },
+ {
+   "name": "spiny lobster",
+   "category": "Food"
+ },
+ {
+   "name": "langouste",
+   "category": "Food"
+ },
+ {
+   "name": "rock lobster",
+   "category": "Food"
+ },
+ {
+   "name": "crawfish",
+   "category": "Food"
+ },
+ {
+   "name": "crayfish",
+   "category": "Food"
+ },
+ {
+   "name": "sea crawfish",
+   "category": "Food"
+ },
+ {
+   "name": "broccoli",
+   "category": "Food"
+ },
+ {
+   "name": "Granny Smith",
+   "category": "Food"
+ },
+ {
+   "name": "bagel",
+   "category": "Food"
+ },
+ {
+   "name": "beigel",
+   "category": "Food"
+ },
+ {
+   "name": "potpie",
+   "category": "Food"
+ },
+ {
+   "name": "pop bottle",
+   "category": "Food"
+ },
+ {
+   "name": "soda bottle",
+   "category": "Food"
+ },
+ {
+   "name": "dough",
+   "category": "Food"
+ },
+ {
+   "name": "beer bottle",
+   "category": "Food"
+ },
+ {
+   "name": "hotdog",
+   "category": "Food"
+ },
+ {
+   "name": "hot dog",
+   "category": "Food"
+ },
+ {
+   "name": "red hot",
+   "category": "Food"
+ },
+ {
+   "name": "eggnog",
+   "category": "Food"
+ },
+ {
+   "name": "whiskey jug",
+   "category": "Food"
+ },
+ {
+   "name": "meat loaf",
+   "category": "Food"
+ },
+ {
+   "name": "meatloaf",
+   "category": "Food"
+ },
+ {
+   "name": "hamster",
+   "category": "Food"
+ },
+ {
+   "name": "jack-o'-lantern",
+   "category": "Food"
+ },
+ {
+   "name": "mashed potato",
+   "category": "Food"
+ },
+ {
+   "name": "butternut squash",
+   "category": "Food"
+ },
+ {
+   "name": "gar",
+   "category": "Fish"
+ },
+ {
+   "name": "garfish",
+   "category": "Fish"
+ },
+ {
+   "name": "garpike",
+   "category": "Fish"
+ },
+ {
+   "name": "billfish",
+   "category": "Fish"
+ },
+ {
+   "name": "Lepisosteus osseus",
+   "category": "Fish"
+ },
+ {
+   "name": "rock beauty",
+   "category": "Fish"
+ },
+ {
+   "name": "Holocanthus tricolor",
+   "category": "Fish"
+ },
+ {
+   "name": "tiger shark",
+   "category": "Fish"
+ },
+ {
+   "name": "Galeocerdo cuvieri",
+   "category": "Fish"
+ },
+ {
+   "name": "dugong",
+   "category": "Fish"
+ },
+ {
+   "name": "Dugong dugon",
+   "category": "Fish"
+ },
+ {
+   "name": "anemone fish",
+   "category": "Fish"
+ },
+ {
+   "name": "king crab",
+   "category": "Fish"
+ },
+ {
+   "name": "Alaska crab",
+   "category": "Fish"
+ },
+ {
+   "name": "Alaskan king crab",
+   "category": "Fish"
+ },
+ {
+   "name": "Alaska king crab",
+   "category": "Fish"
+ },
+ {
+   "name": "Paralithodes camtschatica",
+   "category": "Fish"
+ },
+ {
+   "name": "rock crab",
+   "category": "Fish"
+ },
+ {
+   "name": "Cancer irroratus",
+   "category": "Fish"
+ },
+ {
+   "name": "great white shark",
+   "category": "Fish"
+ },
+ {
+   "name": "white shark",
+   "category": "Fish"
+ },
+ {
+   "name": "man-eater",
+   "category": "Fish"
+ },
+ {
+   "name": "man-eating shark",
+   "category": "Fish"
+ },
+ {
+   "name": "Carcharodon carcharias",
+   "category": "Fish"
+ },
+ {
+   "name": "killer whale",
+   "category": "Fish"
+ },
+ {
+   "name": "killer",
+   "category": "Fish"
+ },
+ {
+   "name": "orca",
+   "category": "Fish"
+ },
+ {
+   "name": "grampus",
+   "category": "Fish"
+ },
+ {
+   "name": "sea wolf",
+   "category": "Fish"
+ },
+ {
+   "name": "Orcinus orca",
+   "category": "Fish"
+ },
+ {
+   "name": "fiddler crab",
+   "category": "Fish"
+ },
+ {
+   "name": "eel",
+   "category": "Fish"
+ },
+ {
+   "name": "goldfish",
+   "category": "Fish"
+ },
+ {
+   "name": "Carassius auratus",
+   "category": "Fish"
+ },
+ {
+   "name": "crayfish",
+   "category": "Fish"
+ },
+ {
+   "name": "crawfish",
+   "category": "Fish"
+ },
+ {
+   "name": "crawdad",
+   "category": "Fish"
+ },
+ {
+   "name": "crawdaddy",
+   "category": "Fish"
+ },
+ {
+   "name": "puffer",
+   "category": "Fish"
+ },
+ {
+   "name": "pufferfish",
+   "category": "Fish"
+ },
+ {
+   "name": "blowfish",
+   "category": "Fish"
+ },
+ {
+   "name": "globefish",
+   "category": "Fish"
+ },
+ {
+   "name": "grey whale",
+   "category": "Fish"
+ },
+ {
+   "name": "gray whale",
+   "category": "Fish"
+ },
+ {
+   "name": "devilfish",
+   "category": "Fish"
+ },
+ {
+   "name": "Eschrichtius gibbosus",
+   "category": "Fish"
+ },
+ {
+   "name": "Eschrichtius robustus",
+   "category": "Fish"
+ },
+ {
+   "name": "Dungeness crab",
+   "category": "Fish"
+ },
+ {
+   "name": "Cancer magister",
+   "category": "Fish"
+ },
+ {
+   "name": "sea anemone",
+   "category": "Fish"
+ },
+ {
+   "name": "anemone",
+   "category": "Fish"
+ },
+ {
+   "name": "lionfish",
+   "category": "Fish"
+ },
+ {
+   "name": "flatworm",
+   "category": "Fish"
+ },
+ {
+   "name": "platyhelminth",
+   "category": "Fish"
+ },
+ {
+   "name": "starfish",
+   "category": "Fish"
+ },
+ {
+   "name": "sea star",
+   "category": "Fish"
+ },
+ {
+   "name": "sea lion",
+   "category": "Fish"
+ },
+ {
+   "name": "spiny lobster",
+   "category": "Fish"
+ },
+ {
+   "name": "langouste",
+   "category": "Fish"
+ },
+ {
+   "name": "rock lobster",
+   "category": "Fish"
+ },
+ {
+   "name": "crawfish",
+   "category": "Fish"
+ },
+ {
+   "name": "crayfish",
+   "category": "Fish"
+ },
+ {
+   "name": "sea crawfish",
+   "category": "Fish"
+ },
+ {
+   "name": "loggerhead",
+   "category": "Fish"
+ },
+ {
+   "name": "loggerhead turtle",
+   "category": "Fish"
+ },
+ {
+   "name": "Caretta caretta",
+   "category": "Fish"
+ },
+ {
+   "name": "jellyfish",
+   "category": "Fish"
+ },
+ {
+   "name": "sea slug",
+   "category": "Fish"
+ },
+ {
+   "name": "nudibranch",
+   "category": "Fish"
+ },
+ {
+   "name": "barracouta",
+   "category": "Fish"
+ },
+ {
+   "name": "snoek",
+   "category": "Fish"
+ },
+ {
+   "name": "sturgeon",
+   "category": "Fish"
+ },
+ {
+   "name": "hermit crab",
+   "category": "Fish"
+ },
+ {
+   "name": "hammerhead",
+   "category": "Fish"
+ },
+ {
+   "name": "hammerhead shark",
+   "category": "Fish"
+ },
+ {
+   "name": "chambered nautilus",
+   "category": "Fish"
+ },
+ {
+   "name": "pearly nautilus",
+   "category": "Fish"
+ },
+ {
+   "name": "nautilus",
+   "category": "Fish"
+ },
+ {
+   "name": "tench",
+   "category": "Fish"
+ },
+ {
+   "name": "Tinca tinca",
+   "category": "Fish"
+ },
+ {
+   "name": "inrikisha",
+   "category": "Automobile"
+ },
+ {
+   "name": "ricksha",
+   "category": "Automobile"
+ },
+ {
+   "name": "rickshaw",
+   "category": "Automobile"
+ },
+ {
+   "name": "electric locomotive",
+   "category": "Automobile"
+ },
+ {
+   "name": "freight car",
+   "category": "Automobile"
+ },
+ {
+   "name": "fire engine",
+   "category": "Automobile"
+ },
+ {
+   "name": "fire truck",
+   "category": "Automobile"
+ },
+ {
+   "name": "garbage truck",
+   "category": "Automobile"
+ },
+ {
+   "name": "dustcart",
+   "category": "Automobile"
+ },
+ {
+   "name": "tow truck",
+   "category": "Automobile"
+ },
+ {
+   "name": "tow car",
+   "category": "Automobile"
+ },
+ {
+   "name": "wrecker",
+   "category": "Automobile"
+ },
+ {
+   "name": "yawl",
+   "category": "Automobile"
+ },
+ {
+   "name": "moving van",
+   "category": "Automobile"
+ },
+ {
+   "name": "streetcar",
+   "category": "Automobile"
+ },
+ {
+   "name": "tram",
+   "category": "Automobile"
+ },
+ {
+   "name": "bicycle-built-for-two",
+   "category": "Automobile"
+ },
+ {
+   "name": "tandem bicycle",
+   "category": "Automobile"
+ },
+ {
+   "name": "tandem",
+   "category": "Automobile"
+ },
+ {
+   "name": "tramcar",
+   "category": "Automobile"
+ },
+ {
+   "name": "trolley",
+   "category": "Automobile"
+ },
+ {
+   "name": "trolley car",
+   "category": "Automobile"
+ },
+ {
+   "name": "recreational vehicle",
+   "category": "Automobile"
+ },
+ {
+   "name": "RV",
+   "category": "Automobile"
+ },
+ {
+   "name": "R.V.",
+   "category": "Automobile"
+ },
+ {
+   "name": "snowmobile",
+   "category": "Automobile"
+ },
+ {
+   "name": "tank",
+   "category": "Automobile"
+ },
+ {
+   "name": "minibus",
+   "category": "Automobile"
+ },
+ {
+   "name": "go-kart",
+   "category": "Automobile"
+ },
+ {
+   "name": "army tank",
+   "category": "Automobile"
+ },
+ {
+   "name": "armored combat vehicle",
+   "category": "Automobile"
+ },
+ {
+   "name": "armoured combat vehicle",
+   "category": "Automobile"
+ },
+ {
+   "name": "warplane",
+   "category": "Automobile"
+ },
+ {
+   "name": "military plane",
+   "category": "Automobile"
+ },
+ {
+   "name": "school bus",
+   "category": "Automobile"
+ },
+ {
+   "name": "amphibian",
+   "category": "Automobile"
+ },
+ {
+   "name": "amphibious vehicle",
+   "category": "Automobile"
+ },
+ {
+   "name": "convertible",
+   "category": "Automobile"
+ },
+ {
+   "name": "trolleybus",
+   "category": "Automobile"
+ },
+ {
+   "name": "trolley coach",
+   "category": "Automobile"
+ },
+ {
+   "name": "trackless trolley",
+   "category": "Automobile"
+ },
+ {
+   "name": "car wheel",
+   "category": "Automobile"
+ },
+ {
+   "name": "harvester",
+   "category": "Automobile"
+ },
+ {
+   "name": "reaper",
+   "category": "Automobile"
+ },
+ {
+   "name": "tricycle",
+   "category": "Automobile"
+ },
+ {
+   "name": "trike",
+   "category": "Automobile"
+ },
+ {
+   "name": "velocipede",
+   "category": "Automobile"
+ },
+ {
+   "name": "submarine",
+   "category": "Automobile"
+ },
+ {
+   "name": "pigboat",
+   "category": "Automobile"
+ },
+ {
+   "name": "sub",
+   "category": "Automobile"
+ },
+ {
+   "name": "U-boat",
+   "category": "Automobile"
+ },
+ {
+   "name": "jeep",
+   "category": "Automobile"
+ },
+ {
+   "name": "landrover",
+   "category": "Automobile"
+ },
+ {
+   "name": "Model T",
+   "category": "Automobile"
+ },
+ {
+   "name": "passenger car",
+   "category": "Automobile"
+ },
+ {
+   "name": "coach",
+   "category": "Automobile"
+ },
+ {
+   "name": "carriage",
+   "category": "Automobile"
+ },
+ {
+   "name": "sports car",
+   "category": "Automobile"
+ },
+ {
+   "name": "sport car",
+   "category": "Automobile"
+ },
+ {
+   "name": "oxcart",
+   "category": "Automobile"
+ },
+ {
+   "name": "motor scooter",
+   "category": "Automobile"
+ },
+ {
+   "name": "scooter",
+   "category": "Automobile"
+ },
+ {
+   "name": "plane",
+   "category": "Automobile"
+ },
+ {
+   "name": "carpenter's plane",
+   "category": "Automobile"
+ },
+ {
+   "name": "woodworking plane",
+   "category": "Automobile"
+ },
+ {
+   "name": "police van",
+   "category": "Automobile"
+ },
+ {
+   "name": "police wagon",
+   "category": "Automobile"
+ },
+ {
+   "name": "paddy wagon",
+   "category": "Automobile"
+ },
+ {
+   "name": "patrol wagon",
+   "category": "Automobile"
+ },
+ {
+   "name": "wagon",
+   "category": "Automobile"
+ },
+ {
+   "name": "black Maria",
+   "category": "Automobile"
+ },
+ {
+   "name": "mountain bike",
+   "category": "Automobile"
+ },
+ {
+   "name": "all-terrain bike",
+   "category": "Automobile"
+ },
+ {
+   "name": "off-roader",
+   "category": "Automobile"
+ },
+ {
+   "name": "ambulance",
+   "category": "Automobile"
+ },
+ {
+   "name": "minivan",
+   "category": "Automobile"
+ },
+ {
+   "name": "half track",
+   "category": "Automobile"
+ },
+ {
+   "name": "lawn mower",
+   "category": "Automobile"
+ },
+ {
+   "name": "mower",
+   "category": "Automobile"
+ },
+ {
+   "name": "projectile",
+   "category": "Automobile"
+ },
+ {
+   "name": "missile",
+   "category": "Automobile"
+ },
+ {
+   "name": "racer",
+   "category": "Automobile"
+ },
+ {
+   "name": "race car",
+   "category": "Automobile"
+ },
+ {
+   "name": "racing car",
+   "category": "Automobile"
+ },
+ {
+   "name": "snowplow",
+   "category": "Automobile"
+ },
+ {
+   "name": "snowplough",
+   "category": "Automobile"
+ },
+ {
+   "name": "moped",
+   "category": "Automobile"
+ },
+ {
+   "name": "trailer truck",
+   "category": "Automobile"
+ },
+ {
+   "name": "tractor trailer",
+   "category": "Automobile"
+ },
+ {
+   "name": "trucking rig",
+   "category": "Automobile"
+ },
+ {
+   "name": "rig",
+   "category": "Automobile"
+ },
+ {
+   "name": "articulated lorry",
+   "category": "Automobile"
+ },
+ {
+   "name": "semi",
+   "category": "Automobile"
+ },
+ {
+   "name": "steam locomotive",
+   "category": "Automobile"
+ },
+ {
+   "name": "unicycle",
+   "category": "Automobile"
+ },
+ {
+   "name": "monocycle",
+   "category": "Automobile"
+ },
+ {
+   "name": "tractor",
+   "category": "Automobile"
+ },
+ {
+   "name": "bullet train",
+   "category": "Automobile"
+ },
+ {
+   "name": "bullet",
+   "category": "Automobile"
+ },
+ {
+   "name": "pickup",
+   "category": "Automobile"
+ },
+ {
+   "name": "pickup truck",
+   "category": "Automobile"
+ },
+ {
+   "name": "limousine",
+   "category": "Automobile"
+ },
+ {
+   "name": "limo",
+   "category": "Automobile"
+ },
+ {
+   "name": "aircraft carrier",
+   "category": "Automobile"
+ },
+ {
+   "name": "carrier",
+   "category": "Automobile"
+ },
+ {
+   "name": "flattop",
+   "category": "Automobile"
+ },
+ {
+   "name": "attack aircraft carrier",
+   "category": "Automobile"
+ },
+ {
+   "name": "cab",
+   "category": "Automobile"
+ },
+ {
+   "name": "hack",
+   "category": "Automobile"
+ },
+ {
+   "name": "taxi",
+   "category": "Automobile"
+ },
+ {
+   "name": "taxicab",
+   "category": "Automobile"
+ },
+ {
+   "name": "missile",
+   "category": "Automobile"
+ },
+ {
+   "name": "ABARTH",
+   "category": "Automobile"
+ },
+ {
+   "name": "ALFA ROMEO",
+   "category": "Automobile"
+ },
+ {
+   "name": "ASTON MARTIN",
+   "category": "Automobile"
+ },
+ {
+   "name": "AUSTIN",
+   "category": "Automobile"
+ },
+ {
+   "name": "BEDFORD",
+   "category": "Automobile"
+ },
+ {
+   "name": "BENTLEY",
+   "category": "Automobile"
+ },
+ {
+   "name": "BOLWELL",
+   "category": "Automobile"
+ },
+ {
+   "name": "BUFORI",
+   "category": "Automobile"
+ },
+ {
+   "name": "CADILLAC",
+   "category": "Automobile"
+ },
+ {
+   "name": "CATERHAM",
+   "category": "Automobile"
+ },
+ {
+   "name": "CHERY",
+   "category": "Automobile"
+ },
+ {
+   "name": "CHEVROLET",
+   "category": "Automobile"
+ },
+ {
+   "name": "CHRYSLER",
+   "category": "Automobile"
+ },
+ {
+   "name": "CITROEN",
+   "category": "Automobile"
+ },
+ {
+   "name": "DAEWOO",
+   "category": "Automobile"
+ },
+ {
+   "name": "DAIHATSU",
+   "category": "Automobile"
+ },
+ {
+   "name": "DODGE",
+   "category": "Automobile"
+ },
+ {
+   "name": "FIAT",
+   "category": "Automobile"
+ },
+ {
+   "name": "GEELY",
+   "category": "Automobile"
+ },
+ {
+   "name": "GREAT WALL",
+   "category": "Automobile"
+ },
+ {
+   "name": "HINO",
+   "category": "Automobile"
+ },
+ {
+   "name": "HUMMER",
+   "category": "Automobile"
+ },
+ {
+   "name": "INFINITI",
+   "category": "Automobile"
+ },
+ {
+   "name": "ISUZU",
+   "category": "Automobile"
+ },
+ {
+   "name": "JAGUAR",
+   "category": "Automobile"
+ },
+ {
+   "name": "JEEP",
+   "category": "Automobile"
+ },
+ {
+   "name": "LAND ROVER",
+   "category": "Automobile"
+ },
+ {
+   "name": "LEXUS",
+   "category": "Automobile"
+ },
+ {
+   "name": "LOTUS",
+   "category": "Automobile"
+ },
+ {
+   "name": "MINI",
+   "category": "Automobile"
+ },
+ {
+   "name": "MITSUBISHI",
+   "category": "Automobile"
+ },
+ {
+   "name": "OPEL",
+   "category": "Automobile"
+ },
+ {
+   "name": "PORSCHE",
+   "category": "Automobile"
+ },
+ {
+   "name": "PROTON",
+   "category": "Automobile"
+ },
+ {
+   "name": "RANGE ROVER",
+   "category": "Automobile"
+ },
+ {
+   "name": "RENAULT",
+   "category": "Automobile"
+ },
+ {
+   "name": "SAAB",
+   "category": "Automobile"
+ },
+ {
+   "name": "SKODA",
+   "category": "Automobile"
+ },
+ {
+   "name": "SSANGYONG",
+   "category": "Automobile"
+ },
+ {
+   "name": "SUBARU",
+   "category": "Automobile"
+ },
+ {
+   "name": "SUZUKI",
+   "category": "Automobile"
+ },
+ {
+   "name": "TATA",
+   "category": "Automobile"
+ },
+ {
+   "name": "VOLVO",
+   "category": "Automobile"
+ },
+ {
+   "name": "BMW",
+   "category": "Automobile"
+ },
+ {
+   "name": "Alfa Romeo",
+   "category": "Automobile"
+ },
+ {
+   "name": "Aston Martin",
+   "category": "Automobile"
+ },
+ {
+   "name": "Audi",
+   "category": "Automobile"
+ },
+ {
+   "name": "Bentley",
+   "category": "Automobile"
+ },
+ {
+   "name": "Benz",
+   "category": "Automobile"
+ },
+ {
+   "name": "BMW",
+   "category": "Automobile"
+ },
+ {
+   "name": "Bugatti",
+   "category": "Automobile"
+ },
+ {
+   "name": "Cadillac",
+   "category": "Automobile"
+ },
+ {
+   "name": "Chevrolet",
+   "category": "Automobile"
+ },
+ {
+   "name": "Chrysler",
+   "category": "Automobile"
+ },
+ {
+   "name": "Citroen",
+   "category": "Automobile"
+ },
+ {
+   "name": "Corvette",
+   "category": "Automobile"
+ },
+ {
+   "name": "DAF",
+   "category": "Automobile"
+ },
+ {
+   "name": "Dacia",
+   "category": "Automobile"
+ },
+ {
+   "name": "Daewoo",
+   "category": "Automobile"
+ },
+ {
+   "name": "Daihatsu",
+   "category": "Automobile"
+ },
+ {
+   "name": "Datsun",
+   "category": "Automobile"
+ },
+ {
+   "name": "De Lorean",
+   "category": "Automobile"
+ },
+ {
+   "name": "Dino",
+   "category": "Automobile"
+ },
+ {
+   "name": "Dodge",
+   "category": "Automobile"
+ },
+ {
+   "name": "Farboud",
+   "category": "Automobile"
+ },
+ {
+   "name": "Ferrari",
+   "category": "Automobile"
+ },
+ {
+   "name": "Fiat",
+   "category": "Automobile"
+ },
+ {
+   "name": "Ford",
+   "category": "Automobile"
+ },
+ {
+   "name": "Honda",
+   "category": "Automobile"
+ },
+ {
+   "name": "Hummer",
+   "category": "Automobile"
+ },
+ {
+   "name": "Hyundai",
+   "category": "Automobile"
+ },
+ {
+   "name": "Jaguar",
+   "category": "Automobile"
+ },
+ {
+   "name": "Jeep",
+   "category": "Automobile"
+ },
+ {
+   "name": "KIA",
+   "category": "Automobile"
+ },
+ {
+   "name": "Koenigsegg",
+   "category": "Automobile"
+ },
+ {
+   "name": "Lada",
+   "category": "Automobile"
+ },
+ {
+   "name": "Lamborghini",
+   "category": "Automobile"
+ },
+ {
+   "name": "Lancia",
+   "category": "Automobile"
+ },
+ {
+   "name": "Land Rover",
+   "category": "Automobile"
+ },
+ {
+   "name": "Lexus",
+   "category": "Automobile"
+ },
+ {
+   "name": "Ligier",
+   "category": "Automobile"
+ },
+ {
+   "name": "Lincoln",
+   "category": "Automobile"
+ },
+ {
+   "name": "Lotus",
+   "category": "Automobile"
+ },
+ {
+   "name": "Martini",
+   "category": "Automobile"
+ },
+ {
+   "name": "Maserati",
+   "category": "Automobile"
+ },
+ {
+   "name": "Maybach",
+   "category": "Automobile"
+ },
+ {
+   "name": "Mazda",
+   "category": "Automobile"
+ },
+ {
+   "name": "McLaren",
+   "category": "Automobile"
+ },
+ {
+   "name": "Mercedes",
+   "category": "Automobile"
+ },
+ {
+   "name": "Mercedes-Benz",
+   "category": "Automobile"
+ },
+ {
+   "name": "Mini",
+   "category": "Automobile"
+ },
+ {
+   "name": "Mitsubishi",
+   "category": "Automobile"
+ },
+ {
+   "name": "Nissan",
+   "category": "Automobile"
+ },
+ {
+   "name": "Noble",
+   "category": "Automobile"
+ },
+ {
+   "name": "Opel",
+   "category": "Automobile"
+ },
+ {
+   "name": "Peugeot",
+   "category": "Automobile"
+ },
+ {
+   "name": "Pontiac",
+   "category": "Automobile"
+ },
+ {
+   "name": "Porsche",
+   "category": "Automobile"
+ },
+ {
+   "name": "Renault",
+   "category": "Automobile"
+ },
+ {
+   "name": "Rolls-Royce",
+   "category": "Automobile"
+ },
+ {
+   "name": "Rover",
+   "category": "Automobile"
+ },
+ {
+   "name": "Saab",
+   "category": "Automobile"
+ },
+ {
+   "name": "Seat",
+   "category": "Automobile"
+ },
+ {
+   "name": "Skoda",
+   "category": "Automobile"
+ },
+ {
+   "name": "Smart",
+   "category": "Automobile"
+ },
+ {
+   "name": "Spyker",
+   "category": "Automobile"
+ },
+ {
+   "name": "Subaru",
+   "category": "Automobile"
+ },
+ {
+   "name": "Suzuki",
+   "category": "Automobile"
+ },
+ {
+   "name": "Toyota",
+   "category": "Automobile"
+ },
+ {
+   "name": "Vauxhall",
+   "category": "Automobile"
+ },
+ {
+   "name": "Volkswagen",
+   "category": "Automobile"
+ },
+ {
+   "name": "Volvo",
+   "category": "Automobile"
+ },
+ {
+   "name": "catamaran",
+   "category": "Automobile"
+ },
+ {
+   "name": "pirate",
+   "category": "Automobile"
+ },
+ {
+   "name": "pirate ship",
+   "category": "Automobile"
+ },
+ {
+   "name": "trimaran",
+   "category": "Automobile"
+ },
+ {
+   "name": "airship",
+   "category": "Automobile"
+ },
+ {
+   "name": "dirigible",
+   "category": "Automobile"
+ },
+ {
+   "name": "speedboat",
+   "category": "Automobile"
+ },
+ {
+   "name": "canoe",
+   "category": "Automobile"
+ },
+ {
+   "name": "fireboat",
+   "category": "Automobile"
+ },
+ {
+   "name": "schooner",
+   "category": "Automobile"
+ },
+ {
+   "name": "lifeboat",
+   "category": "Automobile"
+ },
+ {
+   "name": "snorkel",
+   "category": "Automobile"
+ },
+ {
+   "name": "little blue heron",
+   "category": "Birds"
+ },
+ {
+   "name": "spoonbill",
+   "category": "Birds"
+ },
+ {
+   "name": "ruddy turnstone",
+   "category": "Birds"
+ },
+ {
+   "name": "Arenaria interpres",
+   "category": "Birds"
+ },
+ {
+   "name": "African grey",
+   "category": "Birds"
+ },
+ {
+   "name": "African gray",
+   "category": "Birds"
+ },
+ {
+   "name": "Psittacus erithacus",
+   "category": "Birds"
+ },
+ {
+   "name": "sulphur butterfly",
+   "category": "Birds"
+ },
+ {
+   "name": "sulfur butterfly",
+   "category": "Birds"
+ },
+ {
+   "name": "chickadee",
+   "category": "Birds"
+ },
+ {
+   "name": "redshank",
+   "category": "Birds"
+ },
+ {
+   "name": "Tringa totanus",
+   "category": "Birds"
+ },
+ {
+   "name": "American coot",
+   "category": "Birds"
+ },
+ {
+   "name": "monarch",
+   "category": "Birds"
+ },
+ {
+   "name": "monarch butterfly",
+   "category": "Birds"
+ },
+ {
+   "name": "dowitcher",
+   "category": "Birds"
+ },
+ {
+   "name": "milkweed butterfly",
+   "category": "Birds"
+ },
+ {
+   "name": "indigo bunting",
+   "category": "Birds"
+ },
+ {
+   "name": "indigo finch",
+   "category": "Birds"
+ },
+ {
+   "name": "indigo bird",
+   "category": "Birds"
+ },
+ {
+   "name": "Passerina cyanea",
+   "category": "Birds"
+ },
+ {
+   "name": "Danaus plexippus",
+   "category": "Birds"
+ },
+ {
+   "name": "bald eagle",
+   "category": "Birds"
+ },
+ {
+   "name": "American eagle",
+   "category": "Birds"
+ },
+ {
+   "name": "Haliaeetus leucocephalus",
+   "category": "Birds"
+ },
+ {
+   "name": "eagle",
+   "category": "Birds"
+ },
+ {
+   "name": "jacamar",
+   "category": "Birds"
+ },
+ {
+   "name": "pelican",
+   "category": "Birds"
+ },
+ {
+   "name": "jay",
+   "category": "Birds"
+ },
+ {
+   "name": "robin",
+   "category": "Birds"
+ },
+ {
+   "name": "American robin",
+   "category": "Birds"
+ },
+ {
+   "name": "Turdus migratorius",
+   "category": "Birds"
+ },
+ {
+   "name": "vulture",
+   "category": "Birds"
+ },
+ {
+   "name": "brambling",
+   "category": "Birds"
+ },
+ {
+   "name": "Fringilla montifringilla",
+   "category": "Birds"
+ },
+ {
+   "name": "dragonfly",
+   "category": "Birds"
+ },
+ {
+   "name": "darning needle",
+   "category": "Birds"
+ },
+ {
+   "name": "ladybug",
+   "category": "Birds"
+ },
+ {
+   "name": "ladybeetle",
+   "category": "Birds"
+ },
+ {
+   "name": "lady beetle",
+   "category": "Birds"
+ },
+ {
+   "name": "ladybird",
+   "category": "Birds"
+ },
+ {
+   "name": "ladybird beetle",
+   "category": "Birds"
+ },
+ {
+   "name": "devil’s darning needle",
+   "category": "Birds"
+ },
+ {
+   "name": "sewing needle",
+   "category": "Birds"
+ },
+ {
+   "name": "snake feeder",
+   "category": "Birds"
+ },
+ {
+   "name": "snake doctor",
+   "category": "Birds"
+ },
+ {
+   "name": "mosquito hawk",
+   "category": "Birds"
+ },
+ {
+   "name": "skeeter hawk",
+   "category": "Birds"
+ },
+ {
+   "name": "lycaenid",
+   "category": "Birds"
+ },
+ {
+   "name": "ringlet",
+   "category": "Birds"
+ },
+ {
+   "name": "ringlet butterfly",
+   "category": "Birds"
+ },
+ {
+   "name": "oystercatcher",
+   "category": "Birds"
+ },
+ {
+   "name": "oyster catcher",
+   "category": "Birds"
+ },
+ {
+   "name": "lorikeet",
+   "category": "Birds"
+ },
+ {
+   "name": "cabbage butterfly",
+   "category": "Birds"
+ },
+ {
+   "name": "bittern",
+   "category": "Birds"
+ },
+ {
+   "name": "European gallinule",
+   "category": "Birds"
+ },
+ {
+   "name": "Porphyrio porphyrio",
+   "category": "Birds"
+ },
+ {
+   "name": "black grouse",
+   "category": "Birds"
+ },
+ {
+   "name": "ostrich",
+   "category": "Birds"
+ },
+ {
+   "name": "macaw",
+   "category": "Birds"
+ },
+ {
+   "name": "Struthio camelus",
+   "category": "Birds"
+ },
+ {
+   "name": "crane",
+   "category": "Birds"
+ },
+ {
+   "name": "cock",
+   "category": "Birds"
+ },
+ {
+   "name": "albatross",
+   "category": "Birds"
+ },
+ {
+   "name": "mollymawk",
+   "category": "Birds"
+ },
+ {
+   "name": "hummingbird",
+   "category": "Birds"
+ },
+ {
+   "name": "coucal",
+   "category": "Birds"
+ },
+ {
+   "name": "junco",
+   "category": "Birds"
+ },
+ {
+   "name": "snowbird",
+   "category": "Birds"
+ },
+ {
+   "name": "goldfinch",
+   "category": "Birds"
+ },
+ {
+   "name": "Carduelis carduelis",
+   "category": "Birds"
+ },
+ {
+   "name": "quail",
+   "category": "Birds"
+ },
+ {
+   "name": "ptarmigan",
+   "category": "Birds"
+ },
+ {
+   "name": "weevil",
+   "category": "Birds"
+ },
+ {
+   "name": "damselfly",
+   "category": "Birds"
+ },
+ {
+   "name": "honeycomb",
+   "category": "Birds"
+ },
+ {
+   "name": "red-backed sandpiper",
+   "category": "Birds"
+ },
+ {
+   "name": "dunlin",
+   "category": "Birds"
+ },
+ {
+   "name": "Erolia alpina",
+   "category": "Birds"
+ },
+ {
+   "name": "great grey owl",
+   "category": "Birds"
+ },
+ {
+   "name": "great gray owl",
+   "category": "Birds"
+ },
+ {
+   "name": "Strix nebulosa",
+   "category": "Birds"
+ },
+ {
+   "name": "bustard",
+   "category": "Birds"
+ },
+ {
+   "name": "bulbul",
+   "category": "Birds"
+ },
+ {
+   "name": "coho",
+   "category": "Birds"
+ },
+ {
+   "name": "cohoe",
+   "category": "Birds"
+ },
+ {
+   "name": "coho salmon",
+   "category": "Birds"
+ },
+ {
+   "name": "blue jack",
+   "category": "Birds"
+ },
+ {
+   "name": "silver salmon",
+   "category": "Birds"
+ },
+ {
+   "name": "Oncorhynchus kisutch",
+   "category": "Birds"
+ },
+ {
+   "name": "flamingo",
+   "category": "Birds"
+ },
+ {
+   "name": "partridge",
+   "category": "Birds"
+ },
+ {
+   "name": "black stork",
+   "category": "Birds"
+ },
+ {
+   "name": "Ciconia nigra",
+   "category": "Birds"
+ },
+ {
+   "name": "water ouzel",
+   "category": "Birds"
+ },
+ {
+   "name": "dipper",
+   "category": "Birds"
+ },
+ {
+   "name": "American egret",
+   "category": "Birds"
+ },
+ {
+   "name": "great white heron",
+   "category": "Birds"
+ },
+ {
+   "name": "Egretta albus",
+   "category": "Birds"
+ },
+ {
+   "name": "skunk",
+   "category": "Birds"
+ },
+ {
+   "name": "polecat",
+   "category": "Birds"
+ },
+ {
+   "name": "wood pussy",
+   "category": "Birds"
+ },
+ {
+   "name": "hornbill",
+   "category": "Birds"
+ },
+ {
+   "name": "king penguin",
+   "category": "Birds"
+ },
+ {
+   "name": "Aptenodytes patagonica",
+   "category": "Birds"
+ },
+ {
+   "name": "bee",
+   "category": "Birds"
+ },
+ {
+   "name": "wolf spider",
+   "category": "Birds"
+ },
+ {
+   "name": "hunting spider",
+   "category": "Birds"
+ },
+ {
+   "name": "sulphur-crested cockatoo",
+   "category": "Birds"
+ },
+ {
+   "name": "Kakatoe galerita",
+   "category": "Birds"
+ },
+ {
+   "name": "Cacatua galerita",
+   "category": "Birds"
+ },
+ {
+   "name": "limpkin",
+   "category": "Birds"
+ },
+ {
+   "name": "Aramus pictus",
+   "category": "Birds"
+ },
+ {
+   "name": "",
+   "category": "Birds"
+ },
+ {
+   "name": "",
+   "category": "Birds"
+ },
+ {
+   "name": "carabid beetle",
+   "category": "Birds"
+ },
+ {
+   "name": "black widow",
+   "category": "Birds"
+ },
+ {
+   "name": "Latrodectus mactans",
+   "category": "Birds"
+ },
+ {
+   "name": "fly",
+   "category": "Birds"
+ },
+ {
+   "name": "cockroach",
+   "category": "Birds"
+ },
+ {
+   "name": "roach",
+   "category": "Birds"
+ },
+ {
+   "name": "peacock",
+   "category": "Birds"
+ },
+ {
+   "name": "magpie",
+   "category": "Birds"
+ },
+ {
+   "name": "prairie chicken",
+   "category": "Birds"
+ },
+ {
+   "name": "prairie grouse",
+   "category": "Birds"
+ },
+ {
+   "name": "prairie fowl",
+   "category": "Birds"
+ },
+ {
+   "name": "leafhopper",
+   "category": "Birds"
+ },
+ {
+   "name": "lacewing",
+   "category": "Birds"
+ },
+ {
+   "name": "lacewing fly",
+   "category": "Birds"
+ },
+ {
+   "name": "grasshopper",
+   "category": "Birds"
+ },
+ {
+   "name": "hopper",
+   "category": "Birds"
+ },
+ {
+   "name": "mantis",
+   "category": "Birds"
+ },
+ {
+   "name": "mantid",
+   "category": "Birds"
+ },
+ {
+   "name": "bee eater",
+   "category": "Birds"
+ },
+ {
+   "name": "toucan",
+   "category": "Birds"
+ },
+ {
+   "name": "black swan",
+   "category": "Birds"
+ },
+ {
+   "name": "Cygnus atratus",
+   "category": "Birds"
+ },
+ {
+   "name": "red-breasted merganser",
+   "category": "Birds"
+ },
+ {
+   "name": "Mergus serrator",
+   "category": "Birds"
+ },
+ {
+   "name": "white stork",
+   "category": "Birds"
+ },
+ {
+   "name": "Ciconia ciconia",
+   "category": "Birds"
+ },
+ {
+   "name": "house finch",
+   "category": "Birds"
+ },
+ {
+   "name": "linnet",
+   "category": "Birds"
+ },
+ {
+   "name": "Carpodacus mexicanus",
+   "category": "Birds"
+ },
+ {
+   "name": "macaque",
+   "category": "Animals"
+ },
+ {
+   "name": "Shih-Tzu",
+   "category": "Animals"
+ },
+ {
+   "name": "muzzle",
+   "category": "Animals"
+ },
+ {
+   "name": "fox squirrel",
+   "category": "Animals"
+ },
+ {
+   "name": "eastern fox squirrel",
+   "category": "Animals"
+ },
+ {
+   "name": "Sciurus niger",
+   "category": "Animals"
+ },
+ {
+   "name": "polecat",
+   "category": "Animals"
+ },
+ {
+   "name": "fitch",
+   "category": "Animals"
+ },
+ {
+   "name": "foulmart",
+   "category": "Animals"
+ },
+ {
+   "name": "foumart",
+   "category": "Animals"
+ },
+ {
+   "name": "bull mastiff",
+   "category": "Animals"
+ },
+ {
+   "name": "Norfolk terrier",
+   "category": "Animals"
+ },
+ {
+   "name": "Irish setter",
+   "category": "Animals"
+ },
+ {
+   "name": "red setter",
+   "category": "Animals"
+ },
+ {
+   "name": "Sussex spaniel",
+   "category": "Animals"
+ },
+ {
+   "name": "Great Pyrenees",
+   "category": "Animals"
+ },
+ {
+   "name": "borzoi",
+   "category": "Animals"
+ },
+ {
+   "name": "Russian wolfhound",
+   "category": "Animals"
+ },
+ {
+   "name": "Mustela putorius",
+   "category": "Animals"
+ },
+ {
+   "name": "zebra",
+   "category": "Animals"
+ },
+ {
+   "name": "golden retriever",
+   "category": "Animals"
+ },
+ {
+   "name": "flat-coated retriever",
+   "category": "Animals"
+ },
+ {
+   "name": "clumber",
+   "category": "Animals"
+ },
+ {
+   "name": "clumber spaniel",
+   "category": "Animals"
+ },
+ {
+   "name": "Old English sheepdog",
+   "category": "Animals"
+ },
+ {
+   "name": "plow",
+   "category": "Animals"
+ },
+ {
+   "name": "plough",
+   "category": "Animals"
+ },
+ {
+   "name": "bobtail",
+   "category": "Animals"
+ },
+ {
+   "name": "Siberian husky",
+   "category": "Animals"
+ },
+ {
+   "name": "Rottweiler",
+   "category": "Animals"
+ },
+ {
+   "name": "whippet",
+   "category": "Animals"
+ },
+ {
+   "name": "groenendael",
+   "category": "Animals"
+ },
+ {
+   "name": "soft-coated wheaten terrier",
+   "category": "Animals"
+ },
+ {
+   "name": "Brittany spaniel",
+   "category": "Animals"
+ },
+ {
+   "name": "black-footed ferret",
+   "category": "Animals"
+ },
+ {
+   "name": "ferret",
+   "category": "Animals"
+ },
+ {
+   "name": "Mustela nigripes",
+   "category": "Animals"
+ },
+ {
+   "name": "basset",
+   "category": "Animals"
+ },
+ {
+   "name": "Dandie Dinmont",
+   "category": "Animals"
+ },
+ {
+   "name": "Dandie Dinmont terrier",
+   "category": "Animals"
+ },
+ {
+   "name": "Pekinese",
+   "category": "Animals"
+ },
+ {
+   "name": "Leonberg",
+   "category": "Animals"
+ },
+ {
+   "name": "Newfoundland",
+   "category": "Animals"
+ },
+ {
+   "name": "Newfoundland dog",
+   "category": "Animals"
+ },
+ {
+   "name": "Pomeranian",
+   "category": "Animals"
+ },
+ {
+   "name": "Boston bull",
+   "category": "Animals"
+ },
+ {
+   "name": "Great Dane",
+   "category": "Animals"
+ },
+ {
+   "name": "black-and-tan coonhound",
+   "category": "Animals"
+ },
+ {
+   "name": "bluetick",
+   "category": "Animals"
+ },
+ {
+   "name": "Eskimo dog",
+   "category": "Animals"
+ },
+ {
+   "name": "husky",
+   "category": "Animals"
+ },
+ {
+   "name": "toy terrier",
+   "category": "Animals"
+ },
+ {
+   "name": "standard poodle",
+   "category": "Animals"
+ },
+ {
+   "name": "dingo",
+   "category": "Animals"
+ },
+ {
+   "name": "warrigal",
+   "category": "Animals"
+ },
+ {
+   "name": "warragal",
+   "category": "Animals"
+ },
+ {
+   "name": "Canis dingo",
+   "category": "Animals"
+ },
+ {
+   "name": "Greater Swiss Mountain dog",
+   "category": "Animals"
+ },
+ {
+   "name": "Ibizan hound",
+   "category": "Animals"
+ },
+ {
+   "name": "Ibizan Podenco",
+   "category": "Animals"
+ },
+ {
+   "name": "Maltese dog",
+   "category": "Animals"
+ },
+ {
+   "name": "Maltese terrier",
+   "category": "Animals"
+ },
+ {
+   "name": "otterhound",
+   "category": "Animals"
+ },
+ {
+   "name": "otter hound",
+   "category": "Animals"
+ },
+ {
+   "name": "Maltese",
+   "category": "Animals"
+ },
+ {
+   "name": "curly-coated retriever",
+   "category": "Animals"
+ },
+ {
+   "name": "standard schnauzer",
+   "category": "Animals"
+ },
+ {
+   "name": "Chihuahua",
+   "category": "Animals"
+ },
+ {
+   "name": "beaglees",
+   "category": "Animals"
+ },
+ {
+   "name": "Samoyed",
+   "category": "Animals"
+ },
+ {
+   "name": "Tibetan mastiff",
+   "category": "Animals"
+ },
+ {
+   "name": "EntleBucher",
+   "category": "Animals"
+ },
+ {
+   "name": "affenpinscher",
+   "category": "Animals"
+ },
+ {
+   "name": "monkey pinscher",
+   "category": "Animals"
+ },
+ {
+   "name": "monkey dog",
+   "category": "Animals"
+ },
+ {
+   "name": "toy poodle",
+   "category": "Animals"
+ },
+ {
+   "name": "Brabancon griffon",
+   "category": "Animals"
+ },
+ {
+   "name": "English springer",
+   "category": "Animals"
+ },
+ {
+   "name": "English springer spaniel",
+   "category": "Animals"
+ },
+ {
+   "name": "Afghan hound",
+   "category": "Animals"
+ },
+ {
+   "name": "Afghan",
+   "category": "Animals"
+ },
+ {
+   "name": "Labrador retriever",
+   "category": "Animals"
+ },
+ {
+   "name": "Border terrier",
+   "category": "Animals"
+ },
+ {
+   "name": "miniature pinscher",
+   "category": "Animals"
+ },
+ {
+   "name": "Walker hound",
+   "category": "Animals"
+ },
+ {
+   "name": "Walker foxhound",
+   "category": "Animals"
+ },
+ {
+   "name": "kuvasz",
+   "category": "Animals"
+ },
+ {
+   "name": "Blenheim spaniel",
+   "category": "Animals"
+ },
+ {
+   "name": "German short-haired pointer",
+   "category": "Animals"
+ },
+ {
+   "name": "Australian terrier",
+   "category": "Animals"
+ },
+ {
+   "name": "Bouvier des Flandres",
+   "category": "Animals"
+ },
+ {
+   "name": "Bouviers des Flandres",
+   "category": "Animals"
+ },
+ {
+   "name": "komondor",
+   "category": "Animals"
+ },
+ {
+   "name": "dogsled",
+   "category": "Animals"
+ },
+ {
+   "name": "dog sled",
+   "category": "Animals"
+ },
+ {
+   "name": "dog sleigh",
+   "category": "Animals"
+ },
+ {
+   "name": "Irish water spaniel",
+   "category": "Animals"
+ },
+ {
+   "name": "Border collie",
+   "category": "Animals"
+ },
+ {
+   "name": "basenji",
+   "category": "Animals"
+ },
+ {
+   "name": "English setter",
+   "category": "Animals"
+ },
+ {
+   "name": "silky terrier",
+   "category": "Animals"
+ },
+ {
+   "name": "Sydney silky",
+   "category": "Animals"
+ },
+ {
+   "name": "American Staffordshire terrier",
+   "category": "Animals"
+ },
+ {
+   "name": "Staffordshire terrier",
+   "category": "Animals"
+ },
+ {
+   "name": "American pit bull terrier",
+   "category": "Animals"
+ },
+ {
+   "name": "pit bull terrier",
+   "category": "Animals"
+ },
+ {
+   "name": "giant schnauzer",
+   "category": "Animals"
+ },
+ {
+   "name": "Japanese spaniel",
+   "category": "Animals"
+ },
+ {
+   "name": "Chesapeake Bay retriever",
+   "category": "Animals"
+ },
+ {
+   "name": "Weimaraner",
+   "category": "Animals"
+ },
+ {
+   "name": "dalmatian",
+   "category": "Animals"
+ },
+ {
+   "name": "coach dog",
+   "category": "Animals"
+ },
+ {
+   "name": "carriage dog",
+   "category": "Animals"
+ },
+ {
+   "name": "Doberman",
+   "category": "Animals"
+ },
+ {
+   "name": "Doberman pinscher",
+   "category": "Animals"
+ },
+ {
+   "name": "French bulldog",
+   "category": "Animals"
+ },
+ {
+   "name": "Kerry blue terrier",
+   "category": "Animals"
+ },
+ {
+   "name": "Gordon setter",
+   "category": "Animals"
+ },
+ {
+   "name": "Bernese mountain dog",
+   "category": "Animals"
+ },
+ {
+   "name": "Norwegian elkhound",
+   "category": "Animals"
+ },
+ {
+   "name": "elkhound",
+   "category": "Animals"
+ },
+ {
+   "name": "Saint Bernard",
+   "category": "Animals"
+ },
+ {
+   "name": "Shetland sheepdog",
+   "category": "Animals"
+ },
+ {
+   "name": "Shetland sheep dog",
+   "category": "Animals"
+ },
+ {
+   "name": "Shetland",
+   "category": "Animals"
+ },
+ {
+   "name": "German shepherd",
+   "category": "Animals"
+ },
+ {
+   "name": "German shepherd dog",
+   "category": "Animals"
+ },
+ {
+   "name": "German police dog",
+   "category": "Animals"
+ },
+ {
+   "name": "alsatian",
+   "category": "Animals"
+ },
+ {
+   "name": "St Bernard",
+   "category": "Animals"
+ },
+ {
+   "name": "common iguana",
+   "category": "Animals"
+ },
+ {
+   "name": "iguana",
+   "category": "Animals"
+ },
+ {
+   "name": "Iguana iguana",
+   "category": "Animals"
+ },
+ {
+   "name": "wire-haired fox terrier",
+   "category": "Animals"
+ },
+ {
+   "name": "Yorkshire terrier",
+   "category": "Animals"
+ },
+ {
+   "name": "schipperke",
+   "category": "Animals"
+ },
+ {
+   "name": "papillon",
+   "category": "Animals"
+ },
+ {
+   "name": "briard",
+   "category": "Animals"
+ },
+ {
+   "name": "dhole",
+   "category": "Animals"
+ },
+ {
+   "name": "Cuon alpinus",
+   "category": "Animals"
+ },
+ {
+   "name": "Norwich terrier",
+   "category": "Animals"
+ },
+ {
+   "name": "West Highland white terrier",
+   "category": "Animals"
+ },
+ {
+   "name": "Saluki",
+   "category": "Animals"
+ },
+ {
+   "name": "gazelle hound",
+   "category": "Animals"
+ },
+ {
+   "name": "Irish terrier",
+   "category": "Animals"
+ },
+ {
+   "name": "English foxhound",
+   "category": "Animals"
+ },
+ {
+   "name": "Mexican hairless",
+   "category": "Animals"
+ },
+ {
+   "name": "Tibetan terrier",
+   "category": "Animals"
+ },
+ {
+   "name": "chrysanthemum dog",
+   "category": "Animals"
+ },
+ {
+   "name": "miniature poodle",
+   "category": "Animals"
+ },
+ {
+   "name": "Lakeland terrier",
+   "category": "Animals"
+ },
+ {
+   "name": "malinois",
+   "category": "Animals"
+ },
+ {
+   "name": "Sealyham terrier",
+   "category": "Animals"
+ },
+ {
+   "name": "Sealyham",
+   "category": "Animals"
+ },
+ {
+   "name": "Lhasa",
+   "category": "Animals"
+ },
+ {
+   "name": "Lhasa apso",
+   "category": "Animals"
+ },
+ {
+   "name": "Irish wolfhound",
+   "category": "Animals"
+ },
+ {
+   "name": "cocker spaniel",
+   "category": "Animals"
+ },
+ {
+   "name": "English cocker spaniel",
+   "category": "Animals"
+ },
+ {
+   "name": "cocker",
+   "category": "Animals"
+ },
+ {
+   "name": "collie",
+   "category": "Animals"
+ },
+ {
+   "name": "chow",
+   "category": "Animals"
+ },
+ {
+   "name": "chow chow",
+   "category": "Animals"
+ },
+ {
+   "name": "Italian greyhound",
+   "category": "Animals"
+ },
+ {
+   "name": "Rhodesian ridgeback",
+   "category": "Animals"
+ },
+ {
+   "name": "redbone",
+   "category": "Animals"
+ },
+ {
+   "name": "bloodhound",
+   "category": "Animals"
+ },
+ {
+   "name": "sleuthhound",
+   "category": "Animals"
+ },
+ {
+   "name": "vizsla",
+   "category": "Animals"
+ },
+ {
+   "name": "Hungarian pointer",
+   "category": "Animals"
+ },
+ {
+   "name": "Welsh springer spaniel",
+   "category": "Animals"
+ },
+ {
+   "name": "keeshond",
+   "category": "Animals"
+ },
+ {
+   "name": "Staffordshire bullterrier",
+   "category": "Animals"
+ },
+ {
+   "name": "Staffordshire bull terrier",
+   "category": "Animals"
+ },
+ {
+   "name": "malamute",
+   "category": "Animals"
+ },
+ {
+   "name": "malemute",
+   "category": "Animals"
+ },
+ {
+   "name": "Alaskan malamute",
+   "category": "Animals"
+ },
+ {
+   "name": "barn spider",
+   "category": "Animals"
+ },
+ {
+   "name": "Araneus cavaticus",
+   "category": "Animals"
+ },
+ {
+   "name": "coyote",
+   "category": "Animals"
+ },
+ {
+   "name": "prairie wolf",
+   "category": "Animals"
+ },
+ {
+   "name": "brush wolf",
+   "category": "Animals"
+ },
+ {
+   "name": "Canis latrans",
+   "category": "Animals"
+ },
+ {
+   "name": "lion",
+   "category": "Animals"
+ },
+ {
+   "name": "king of beasts",
+   "category": "Animals"
+ },
+ {
+   "name": "Panthera leo",
+   "category": "Animals"
+ },
+ {
+   "name": "hippopotamus",
+   "category": "Animals"
+ },
+ {
+   "name": "hippo",
+   "category": "Animals"
+ },
+ {
+   "name": "river horse",
+   "category": "Animals"
+ },
+ {
+   "name": "Hippopotamus amphibius",
+   "category": "Animals"
+ },
+ {
+   "name": "chimpanzee",
+   "category": "Animals"
+ },
+ {
+   "name": "chimp",
+   "category": "Animals"
+ },
+ {
+   "name": "Pan troglodytes",
+   "category": "Animals"
+ },
+ {
+   "name": "warthog",
+   "category": "Animals"
+ },
+ {
+   "name": "sea snake",
+   "category": "Animals"
+ },
+ {
+   "name": "beaver",
+   "category": "Animals"
+ },
+ {
+   "name": "snow leopard",
+   "category": "Animals"
+ },
+ {
+   "name": "ounce",
+   "category": "Animals"
+ },
+ {
+   "name": "Panthera uncia",
+   "category": "Animals"
+ },
+ {
+   "name": "Arctic fox",
+   "category": "Animals"
+ },
+ {
+   "name": "white fox",
+   "category": "Animals"
+ },
+ {
+   "name": "Alopex lagopus",
+   "category": "Animals"
+ },
+ {
+   "name": "diamondback",
+   "category": "Animals"
+ },
+ {
+   "name": "diamondback rattlesnake",
+   "category": "Animals"
+ },
+ {
+   "name": "Crotalus adamanteus",
+   "category": "Animals"
+ },
+ {
+   "name": "axolotl",
+   "category": "Animals"
+ },
+ {
+   "name": "mud puppy",
+   "category": "Animals"
+ },
+ {
+   "name": "Ambystoma mexicanum",
+   "category": "Animals"
+ },
+ {
+   "name": "scorpion",
+   "category": "Animals"
+ },
+ {
+   "name": "ibex",
+   "category": "Animals"
+ },
+ {
+   "name": "Capra ibex",
+   "category": "Animals"
+ },
+ {
+   "name": "American chameleon",
+   "category": "Animals"
+ },
+ {
+   "name": "anole",
+   "category": "Animals"
+ },
+ {
+   "name": "Anolis carolinensis",
+   "category": "Animals"
+ },
+ {
+   "name": "jaguar",
+   "category": "Animals"
+ },
+ {
+   "name": "panther",
+   "category": "Animals"
+ },
+ {
+   "name": "Panthera onca",
+   "category": "Animals"
+ },
+ {
+   "name": "Felis onca",
+   "category": "Animals"
+ },
+ {
+   "name": "spider monkey",
+   "category": "Animals"
+ },
+ {
+   "name": "Ateles geoffroyi",
+   "category": "Animals"
+ },
+ {
+   "name": "African hunting dog",
+   "category": "Animals"
+ },
+ {
+   "name": "hyena dog",
+   "category": "Animals"
+ },
+ {
+   "name": "Cape hunting dog",
+   "category": "Animals"
+ },
+ {
+   "name": "Lycaon pictus",
+   "category": "Animals"
+ },
+ {
+   "name": "tusker",
+   "category": "Animals"
+ },
+ {
+   "name": "giant panda",
+   "category": "Animals"
+ },
+ {
+   "name": "panda",
+   "category": "Animals"
+ },
+ {
+   "name": "panda bear",
+   "category": "Animals"
+ },
+ {
+   "name": "coon bear",
+   "category": "Animals"
+ },
+ {
+   "name": "Ailuropoda melanoleuca",
+   "category": "Animals"
+ },
+ {
+   "name": "hyena",
+   "category": "Animals"
+ },
+ {
+   "name": "hyaena",
+   "category": "Animals"
+ },
+ {
+   "name": "Bedlington terrier",
+   "category": "Animals"
+ },
+ {
+   "name": "langur",
+   "category": "Animals"
+ },
+ {
+   "name": "otter",
+   "category": "Animals"
+ },
+ {
+   "name": "tarantula",
+   "category": "Animals"
+ },
+ {
+   "name": "bison",
+   "category": "Animals"
+ },
+ {
+   "name": "Siamese cat",
+   "category": "Animals"
+ },
+ {
+   "name": "Siamese",
+   "category": "Animals"
+ },
+ {
+   "name": "wood rabbit",
+   "category": "Animals"
+ },
+ {
+   "name": "cottontail",
+   "category": "Animals"
+ },
+ {
+   "name": "cottontail rabbit",
+   "category": "Animals"
+ },
+ {
+   "name": "spotted salamander",
+   "category": "Animals"
+ },
+ {
+   "name": "Ambystoma maculatum",
+   "category": "Animals"
+ },
+ {
+   "name": "red fox",
+   "category": "Animals"
+ },
+ {
+   "name": "Vulpes vulpes",
+   "category": "Animals"
+ },
+ {
+   "name": "green snake",
+   "category": "Animals"
+ },
+ {
+   "name": "grass snake",
+   "category": "Animals"
+ },
+ {
+   "name": "tree frog",
+   "category": "Animals"
+ },
+ {
+   "name": "tree-frog",
+   "category": "Animals"
+ },
+ {
+   "name": "frog",
+   "category": "Animals"
+ },
+ {
+   "name": "snake",
+   "category": "Animals"
+ },
+ {
+   "name": "cheetah",
+   "category": "Animals"
+ },
+ {
+   "name": "chetah",
+   "category": "Animals"
+ },
+ {
+   "name": "Acinonyx jubatus",
+   "category": "Animals"
+ },
+ {
+   "name": "leopard",
+   "category": "Animals"
+ },
+ {
+   "name": "Panthera pardus",
+   "category": "Animals"
+ },
+ {
+   "name": "European fire salamander",
+   "category": "Animals"
+ },
+ {
+   "name": "Salamandra salamandra",
+   "category": "Animals"
+ },
+ {
+   "name": "tiger",
+   "category": "Animals"
+ },
+ {
+   "name": "Panthera tigris",
+   "category": "Animals"
+ },
+ {
+   "name": "centipede",
+   "category": "Animals"
+ },
+ {
+   "name": "armadillo",
+   "category": "Animals"
+ },
+ {
+   "name": "ice bear",
+   "category": "Animals"
+ },
+ {
+   "name": "polar bear",
+   "category": "Animals"
+ },
+ {
+   "name": "Ursus Maritimus",
+   "category": "Animals"
+ },
+ {
+   "name": "box turtle",
+   "category": "Animals"
+ },
+ {
+   "name": "box tortoise",
+   "category": "Animals"
+ },
+ {
+   "name": "Thalarctos maritimus",
+   "category": "Animals"
+ },
+ {
+   "name": "titi",
+   "category": "Animals"
+ },
+ {
+   "name": "titi monkey",
+   "category": "Animals"
+ },
+ {
+   "name": "indri",
+   "category": "Animals"
+ },
+ {
+   "name": "indris",
+   "category": "Animals"
+ },
+ {
+   "name": "Indri indri",
+   "category": "Animals"
+ },
+ {
+   "name": "Indri brevicaudatus",
+   "category": "Animals"
+ },
+ {
+   "name": "howler monkey",
+   "category": "Animals"
+ },
+ {
+   "name": "howler",
+   "category": "Animals"
+ },
+ {
+   "name": "Indian cobra",
+   "category": "Animals"
+ },
+ {
+   "name": "Naja naja",
+   "category": "Animals"
+ },
+ {
+   "name": "thunder snake",
+   "category": "Animals"
+ },
+ {
+   "name": "worm snake",
+   "category": "Animals"
+ },
+ {
+   "name": "Carphophis amoenus",
+   "category": "Animals"
+ },
+ {
+   "name": "grey fox",
+   "category": "Animals"
+ },
+ {
+   "name": "gray fox",
+   "category": "Animals"
+ },
+ {
+   "name": "Urocyon cinereoargenteus",
+   "category": "Animals"
+ },
+ {
+   "name": "green lizard",
+   "category": "Animals"
+ },
+ {
+   "name": "Lacerta viridis",
+   "category": "Animals"
+ },
+ {
+   "name": "American alligator",
+   "category": "Animals"
+ },
+ {
+   "name": "Alligator mississipiensis",
+   "category": "Animals"
+ },
+ {
+   "name": "Angora",
+   "category": "Animals"
+ },
+ {
+   "name": "Angora rabbit",
+   "category": "Animals"
+ },
+ {
+   "name": "Madagascar cat",
+   "category": "Animals"
+ },
+ {
+   "name": "ring-tailed lemur",
+   "category": "Animals"
+ },
+ {
+   "name": "Lemur catta",
+   "category": "Animals"
+ },
+ {
+   "name": "Arabian camel",
+   "category": "Animals"
+ },
+ {
+   "name": "dromedary",
+   "category": "Animals"
+ },
+ {
+   "name": "Camelus dromedarius",
+   "category": "Animals"
+ },
+ {
+   "name": "kit fox",
+   "category": "Animals"
+ },
+ {
+   "name": "Vulpes macrotis",
+   "category": "Animals"
+ },
+ {
+   "name": "goose",
+   "category": "Animals"
+ },
+ {
+   "name": "long-horned beetle",
+   "category": "Animals"
+ },
+ {
+   "name": "longicorn",
+   "category": "Animals"
+ },
+ {
+   "name": "longicorn beetle",
+   "category": "Animals"
+ },
+ {
+   "name": "guinea pig",
+   "category": "Animals"
+ },
+ {
+   "name": "Cavia cobaya",
+   "category": "Animals"
+ },
+ {
+   "name": "weasel",
+   "category": "Animals"
+ },
+ {
+   "name": "Komodo dragon",
+   "category": "Animals"
+ },
+ {
+   "name": "Komodo lizard",
+   "category": "Animals"
+ },
+ {
+   "name": "dragon lizard",
+   "category": "Animals"
+ },
+ {
+   "name": "giant lizard",
+   "category": "Animals"
+ },
+ {
+   "name": "Varanus komodoensis",
+   "category": "Animals"
+ },
+ {
+   "name": "isopod",
+   "category": "Animals"
+ },
+ {
+   "name": "gazelle",
+   "category": "Animals"
+ },
+ {
+   "name": "rhinoceros beetle",
+   "category": "Animals"
+ },
+ {
+   "name": "mink",
+   "category": "Animals"
+ },
+ {
+   "name": "African crocodile",
+   "category": "Animals"
+ },
+ {
+   "name": "Nile crocodile",
+   "category": "Animals"
+ },
+ {
+   "name": "Crocodylus niloticus",
+   "category": "Animals"
+ },
+ {
+   "name": "ant",
+   "category": "Animals"
+ },
+ {
+   "name": "emmet",
+   "category": "Animals"
+ },
+ {
+   "name": "pismire",
+   "category": "Animals"
+ },
+ {
+   "name": "pug",
+   "category": "Animals"
+ },
+ {
+   "name": "pug-dog",
+   "category": "Animals"
+ },
+ {
+   "name": "Scottish deerhound",
+   "category": "Animals"
+ },
+ {
+   "name": "deerhound",
+   "category": "Animals"
+ },
+ {
+   "name": "frilled lizard",
+   "category": "Animals"
+ },
+ {
+   "name": "Chlamydosaurus kingi",
+   "category": "Animals"
+ },
+ {
+   "name": "baboon",
+   "category": "Animals"
+ },
+ {
+   "name": "tabby",
+   "category": "Animals"
+ },
+ {
+   "name": "tabby cat",
+   "category": "Animals"
+ },
+ {
+   "name": "wallaby",
+   "category": "Animals"
+ },
+ {
+   "name": "brush kangaroo",
+   "category": "Animals"
+ },
+ {
+   "name": "wombat",
+   "category": "Animals"
+ },
+ {
+   "name": "bullfrog",
+   "category": "Animals"
+ },
+ {
+   "name": "Rana catesbeiana",
+   "category": "Animals"
+ },
+ {
+   "name": "slug",
+   "category": "Animals"
+ },
+ {
+   "name": "snail",
+   "category": "Animals"
+ },
+ {
+   "name": "eft",
+   "category": "Animals"
+ },
+ {
+   "name": "marmoset",
+   "category": "Animals"
+ },
+ {
+   "name": "dung beetle",
+   "category": "Animals"
+ },
+ {
+   "name": "red wolf",
+   "category": "Animals"
+ },
+ {
+   "name": "maned wolf",
+   "category": "Animals"
+ },
+ {
+   "name": "Canis rufus",
+   "category": "Animals"
+ },
+ {
+   "name": "Canis niger",
+   "category": "Animals"
+ },
+ {
+   "name": "meerkat",
+   "category": "Animals"
+ },
+ {
+   "name": "timber wolf",
+   "category": "Animals"
+ },
+ {
+   "name": "grey wolf",
+   "category": "Animals"
+ },
+ {
+   "name": "gray wolf",
+   "category": "Animals"
+ },
+ {
+   "name": "Canis lupus",
+   "category": "Animals"
+ },
+ {
+   "name": "colobus",
+   "category": "Animals"
+ },
+ {
+   "name": "colobus monkey",
+   "category": "Animals"
+ },
+ {
+   "name": "orangutan",
+   "category": "Animals"
+ },
+ {
+   "name": "orang",
+   "category": "Animals"
+ },
+ {
+   "name": "orangutang",
+   "category": "Animals"
+ },
+ {
+   "name": "Pongo pygmaeus",
+   "category": "Animals"
+ },
+ {
+   "name": "horned viper",
+   "category": "Animals"
+ },
+ {
+   "name": "cerastes",
+   "category": "Animals"
+ },
+ {
+   "name": "sand viper",
+   "category": "Animals"
+ },
+ {
+   "name": "horned asp",
+   "category": "Animals"
+ },
+ {
+   "name": "Cerastes cornutus",
+   "category": "Animals"
+ },
+ {
+   "name": "night snake",
+   "category": "Animals"
+ },
+ {
+   "name": "Hypsiglena torquata",
+   "category": "Animals"
+ },
+ {
+   "name": "king snake",
+   "category": "Animals"
+ },
+ {
+   "name": "kingsnake",
+   "category": "Animals"
+ },
+ {
+   "name": "harvestman",
+   "category": "Animals"
+ },
+ {
+   "name": "wild boar",
+   "category": "Animals"
+ },
+ {
+   "name": "boar",
+   "category": "Animals"
+ },
+ {
+   "name": "Sus scrofa",
+   "category": "Animals"
+ },
+ {
+   "name": "daddy longlegs",
+   "category": "Animals"
+ },
+ {
+   "name": "Phalangium opilio",
+   "category": "Animals"
+ },
+ {
+   "name": "mongoose",
+   "category": "Animals"
+ },
+ {
+   "name": "American chameleon",
+   "category": "Animals"
+ },
+ {
+   "name": "rock python",
+   "category": "Animals"
+ },
+ {
+   "name": "rock snake",
+   "category": "Animals"
+ },
+ {
+   "name": "Python sebae",
+   "category": "Animals"
+ },
+ {
+   "name": "anole",
+   "category": "Animals"
+ },
+ {
+   "name": "Anolis carolinensis",
+   "category": "Animals"
+ },
+ {
+   "name": "platypus",
+   "category": "Animals"
+ },
+ {
+   "name": "duckbill",
+   "category": "Animals"
+ },
+ {
+   "name": "duckbilled platypus",
+   "category": "Animals"
+ },
+ {
+   "name": "duck-billed platypus",
+   "category": "Animals"
+ },
+ {
+   "name": "Ornithorhynchus anatinus",
+   "category": "Animals"
+ },
+ {
+   "name": "hare",
+   "category": "Animals"
+ },
+ {
+   "name": "guenon",
+   "category": "Animals"
+ },
+ {
+   "name": "guenon monkey",
+   "category": "Animals"
+ },
+ {
+   "name": "African chameleon",
+   "category": "Animals"
+ },
+ {
+   "name": "Chamaeleo chamaeleon",
+   "category": "Animals"
+ },
+ {
+   "name": "vine snake",
+   "category": "Animals"
+ },
+ {
+   "name": "hognose snake",
+   "category": "Animals"
+ },
+ {
+   "name": "puff adder",
+   "category": "Animals"
+ },
+ {
+   "name": "sand viper",
+   "category": "Animals"
+ },
+ {
+   "name": "garter snake",
+   "category": "Animals"
+ },
+ {
+   "name": "grass snake",
+   "category": "Animals"
+ },
+ {
+   "name": "sidewinder",
+   "category": "Animals"
+ },
+ {
+   "name": "horned rattlesnake",
+   "category": "Animals"
+ },
+ {
+   "name": "Crotalus cerastes",
+   "category": "Animals"
+ },
+ {
+   "name": "green mamba",
+   "category": "Animals"
+ },
+ {
+   "name": "hog",
+   "category": "Animals"
+ },
+ {
+   "name": "pig",
+   "category": "Animals"
+ },
+ {
+   "name": "grunter",
+   "category": "Animals"
+ },
+ {
+   "name": "squealer",
+   "category": "Animals"
+ },
+ {
+   "name": "Sus scrofa",
+   "category": "Animals"
+ },
+ {
+   "name": "Indian elephant",
+   "category": "Animals"
+ },
+ {
+   "name": "Elephas maximus",
+   "category": "Animals"
+ },
+ {
+   "name": "ringneck snake",
+   "category": "Animals"
+ },
+ {
+   "name": "ring-necked snake",
+   "category": "Animals"
+ },
+ {
+   "name": "ring snake",
+   "category": "Animals"
+ },
+ {
+   "name": "water snake",
+   "category": "Animals"
+ },
+ {
+   "name": "white wolf",
+   "category": "Animals"
+ },
+ {
+   "name": "Arctic wolf",
+   "category": "Animals"
+ },
+ {
+   "name": "Canis lupus tundrarum",
+   "category": "Animals"
+ },
+ {
+   "name": "ox",
+   "category": "Animals"
+ },
+ {
+   "name": "cougar",
+   "category": "Animals"
+ },
+ {
+   "name": "puma",
+   "category": "Animals"
+ },
+ {
+   "name": "catamount",
+   "category": "Animals"
+ },
+ {
+   "name": "mountain lion",
+   "category": "Animals"
+ },
+ {
+   "name": "painter",
+   "category": "Animals"
+ },
+ {
+   "name": "panther",
+   "category": "Animals"
+ },
+ {
+   "name": "Felis concolor",
+   "category": "Animals"
+ },
+ {
+   "name": "gorilla",
+   "category": "Animals"
+ },
+ {
+   "name": "Gorilla gorilla",
+   "category": "Animals"
+ },
+ {
+   "name": "leatherback turtle",
+   "category": "Animals"
+ },
+ {
+   "name": "leatherback",
+   "category": "Animals"
+ },
+ {
+   "name": "leathery turtle",
+   "category": "Animals"
+ },
+ {
+   "name": "Dermochelys coriacea",
+   "category": "Animals"
+ },
+ {
+   "name": "koala",
+   "category": "Animals"
+ },
+ {
+   "name": "koala bear",
+   "category": "Animals"
+ },
+ {
+   "name": "kangaroo bear",
+   "category": "Animals"
+ },
+ {
+   "name": "native bear",
+   "category": "Animals"
+ },
+ {
+   "name": "Phascolarctos cinereus",
+   "category": "Animals"
+ },
+ {
+   "name": "mud turtle",
+   "category": "Animals"
+ },
+ {
+   "name": "gibbon",
+   "category": "Animals"
+ },
+ {
+   "name": "Hylobates lar",
+   "category": "Animals"
+ },
+ {
+   "name": "patas",
+   "category": "Animals"
+ },
+ {
+   "name": "hussar monkey",
+   "category": "Animals"
+ },
+ {
+   "name": "Erythrocebus patas",
+   "category": "Animals"
+ },
+ {
+   "name": "proboscis monkey",
+   "category": "Animals"
+ },
+ {
+   "name": "Nasalis larvatus",
+   "category": "Animals"
+ },
+ {
+   "name": "squirrel monkey",
+   "category": "Animals"
+ },
+ {
+   "name": "Saimiri sciureus",
+   "category": "Animals"
+ },
+ {
+   "name": "badger",
+   "category": "Animals"
+ },
+ {
+   "name": "lynx",
+   "category": "Animals"
+ },
+ {
+   "name": "catamount",
+   "category": "Animals"
+ },
+ {
+   "name": "American black bear",
+   "category": "Animals"
+ },
+ {
+   "name": "black bear",
+   "category": "Animals"
+ },
+ {
+   "name": "Ursus americanus",
+   "category": "Animals"
+ },
+ {
+   "name": "Euarctos americanus",
+   "category": "Animals"
+ },
+ {
+   "name": "lesser panda",
+   "category": "Animals"
+ },
+ {
+   "name": "red panda",
+   "category": "Animals"
+ },
+ {
+   "name": "panda",
+   "category": "Animals"
+ },
+ {
+   "name": "bear cat",
+   "category": "Animals"
+ },
+ {
+   "name": "cat bear",
+   "category": "Animals"
+ },
+ {
+   "name": "Ailurus fulgens",
+   "category": "Animals"
+ },
+ {
+   "name": "tiger cat",
+   "category": "Animals"
+ },
+ {
+   "name": "Egyptian cat",
+   "category": "Animals"
+ },
+ {
+   "name": "African elephant",
+   "category": "Animals"
+ },
+ {
+   "name": "Loxodonta africana",
+   "category": "Animals"
+ },
+ {
+   "name": "impala",
+   "category": "Animals"
+ },
+ {
+   "name": "Aepyceros melampus",
+   "category": "Animals"
+ },
+ {
+   "name": "alligator lizard",
+   "category": "Animals"
+ },
+ {
+   "name": "agama",
+   "category": "Animals"
+ },
+ {
+   "name": "echidna",
+   "category": "Animals"
+ },
+ {
+   "name": "spiny anteater",
+   "category": "Animals"
+ },
+ {
+   "name": "anteater",
+   "category": "Animals"
+ },
+ {
+   "name": "feather boa",
+   "category": "Animals"
+ },
+ {
+   "name": "boa",
+   "category": "Animals"
+ },
+ {
+   "name": "black and gold garden spider",
+   "category": "Animals"
+ },
+ {
+   "name": "Argiope aurantia",
+   "category": "Animals"
+ },
+ {
+   "name": "porcupine",
+   "category": "Animals"
+ },
+ {
+   "name": "hedgehog",
+   "category": "Animals"
+ },
+ {
+   "name": "tailed frog",
+   "category": "Animals"
+ },
+ {
+   "name": "bell toad",
+   "category": "Animals"
+ },
+ {
+   "name": "ribbed toad",
+   "category": "Animals"
+ },
+ {
+   "name": "tailed toad",
+   "category": "Animals"
+ },
+ {
+   "name": "Ascaphus trui",
+   "category": "Animals"
+ },
+ {
+   "name": "spider web",
+   "category": "Animals"
+ },
+ {
+   "name": "spider's web",
+   "category": "Animals"
+ },
+ {
+   "name": "Gila monster",
+   "category": "Animals"
+ },
+ {
+   "name": "Heloderma suspectum",
+   "category": "Animals"
+ },
+ {
+   "name": "hartebeest",
+   "category": "Animals"
+ },
+ {
+   "name": "ruffed grouse",
+   "category": "Animals"
+ },
+ {
+   "name": "partridge",
+   "category": "Animals"
+ },
+ {
+   "name": "Bonasa umbellus",
+   "category": "Animals"
+ },
+ {
+   "name": "garden spider",
+   "category": "Animals"
+ },
+ {
+   "name": "Aranea diademata",
+   "category": "Animals"
+ },
+ {
+   "name": "water buffalo",
+   "category": "Animals"
+ },
+ {
+   "name": "water ox",
+   "category": "Animals"
+ },
+ {
+   "name": "Asiatic buffalo",
+   "category": "Animals"
+ },
+ {
+   "name": "Bubalus bubalis",
+   "category": "Animals"
+ },
+ {
+   "name": "terrapin",
+   "category": "Animals"
+ },
+ {
+   "name": "banded gecko",
+   "category": "Animals"
+ },
+ {
+   "name": "common newt",
+   "category": "Animals"
+ },
+ {
+   "name": "Triturus vulgaris",
+   "category": "Animals"
+ },
+ {
+   "name": "siamang",
+   "category": "Animals"
+ },
+ {
+   "name": "Hylobates syndactylus",
+   "category": "Animals"
+ },
+ {
+   "name": "Symphalangus syndactylus",
+   "category": "Animals"
+ },
+ {
+   "name": "whiptail",
+   "category": "Animals"
+ },
+ {
+   "name": "whiptail lizard",
+   "category": "Animals"
+ },
+ {
+   "name": "llama",
+   "category": "Animals"
+ }
+]

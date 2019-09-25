@@ -1,0 +1,35 @@
+iOS Hackathon, 2018
+Dear Apple tech developers,
+Time to elevate yourself to participate in the biggest mobile event in Zoho. We're happy to announce the iOS Hackathon to be held on 27th and 28th of July 2018. Register yourselves/your team at https://app.zohocreator.com/ashokr/ios-hackathon/#Form:Team_Registration by 26th July, Thursday before 5:00 pm so that we can take care of your food. 
+ 
+What is iOS Hackathon?
+A team of maximum three iOS developers can use Apple technologies/hardwares to derive ideas which can be used in Zohocorp apps. You can either implement those in any existing app or as a standalone app which might be converted as a SDK / framework at a later point of time, based on the app's needs. Teams should submit a presentation with screenshots or a video along with the demo hack.
+ 
+What would be evaluated?
+	•	Broadness of the idea
+	•	Relevance to ZohoCorp's products
+	•	Originality
+	•	Completeness of the hack.
+P.S: This is not a design hackathon but a technology hackathon. So points will be awarded based on the latter.
+ 
+Rules and Regulations
+	1	A team can consist not more than three people.
+	2	Only registered teams are allowed to participate.
+	3	One person can be a part of only one team.
+	4	The hackathon will happen for 24 hours starting from this Friday evening 5:00 pm. All submissions should happen on or before Saturday evening 5:00 pm. 
+	5	Evaluation will happen in the following days and teams will be called up for their demos when their hack is evaluated. Each team will have 5-10 minutes for their demo session.
+	6	Prize distribution will happen post evaluation on or before Wednesday, 1st of August.
+	7	Usage of third party frameworks are allowed. All codes submitted should be legally evaluated. Individuals are responsible for any code violation or legal issues related to the submitted code.
+	8	Only the submitted code will be considered for evaluation.
+	9	Bring your device if evaluation needs a physical device. If you don’t have such device, inform the organizers in prior, so that they could arrange one for you.
+	10	Total prize money is 50K.
+	11	Organisers and juries decisions are final.
+ 
+Updates regarding this iOS hackathon will be posted in the iOS Developers Cliq and Connect group. For more details you can contact the below mentioned organisers. Manoj Thomas (Zoho Books), SathyaNarayanan (iApps) ,Muthu Nagarjan (vTouch), Gridhar (Jambav)
+ 
+You can refer this document for Apple Hardware and Technlogies you can leverage at.
+All the best for each and every iOS developer at Zoho. Let us bring all your thoughts and ideas to light using this iOS Hackathon.
+ 
+__________________
+Manoj Thomas
+Zoho Books
